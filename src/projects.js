@@ -140,15 +140,6 @@ const projects = [
         'Common Architecture for Building Applications and Libraries.'
       )
     },
-    { title: 'Caledon'
-    , contact: 'Matthew Mirman'
-    , skillLevel: 'advanced'
-    , skillLevelTo: 'expert'
-    , homepage: 'https://github.com/mmirman/caledon'
-    , children: (
-        'Caledon is a higher order dependently typed logic programing language.'
-      )
-    },
     { title: 'Cellular automata'
     , contact: 'Siddharth Bhat'
     , skillLevel: 'beginner'
